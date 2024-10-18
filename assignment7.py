@@ -1,1 +1,3 @@
-prnt("Hello world")
+#! python3
+
+print("Hello world")
